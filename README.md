@@ -28,15 +28,15 @@ git clone https://github.com/Sushmithajn/Event_Scheduler.git
 cd Event_Scheduler
 
 
-## Create a virtual environment and activate it:
+#Create a virtual environment and activate it:
 
 python -m venv myenv
 myenv\Scripts\activate  # Windows
-# source myenv/bin/activate  # macOS/Linux
+source myenv/bin/activate  # macOS/Linux
 
-## Install dependencies:
+#Install dependencies:
 
 pip install -r requirements.txt
 
-##Run the App
+#Run the App
 python app.py
