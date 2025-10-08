@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+myenv/
+env/
+venv/
+
+# Flask instance folder
+instance/
+
+# Reports / generated files
+reports/
+
+# IDE files
+.vscode/
+.idea/
+
+# Config (optional, if you don’t want to push credentials)
+config.py
